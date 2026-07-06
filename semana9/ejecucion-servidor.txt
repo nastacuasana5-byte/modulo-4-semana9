@@ -1,0 +1,6 @@
+Al ejecutar el comando node server.js, Node.js inicia la aplicación y pone en funcionamiento el servidor web definido en el archivo
+se abre una ventana en navegador y dice servidor funcionando
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
